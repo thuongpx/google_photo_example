@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507147809472",
+    "project_id": "photo-api-example",
+    "storage_bucket": "photo-api-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507147809472:android:c9e3dc6c1d6d1b4d59b325",
+        "android_client_info": {
+          "package_name": "com.google_photo_api_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507147809472-bsk27opgetqrohaqttq72ln9v3tod730.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjqKc4Som9S6cIbiuBjYc0LizuPHH9Bkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507147809472-bsk27opgetqrohaqttq72ln9v3tod730.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
